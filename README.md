@@ -16,6 +16,6 @@ npm start
 
 Other available scripts: `npm run build`, `npm test` and `npm run format`.
 
-This older codebase requires its original environment and backend configuration to be reviewed before reuse. Existing build output and dependency directories are historical artifacts, not the source of truth. UI-template and third-party notices must be retained.
+This older codebase requires its original environment and backend configuration to be reviewed before reuse. Generated output, dependency directories and macOS metadata are excluded from the current source tree; earlier copies remain recoverable from Git history. UI-template and third-party notices must be retained.
 
 [Current backend and product work](https://github.com/tahatakgungor)
